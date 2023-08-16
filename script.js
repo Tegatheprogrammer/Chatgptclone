@@ -32,7 +32,7 @@ const loadDataFromLocalstorage = () => {
 
     const defaultText = `<div class="default-text">
 
-                            <h1>ChatGPT Clone</h1>
+                            <h1>ChatGPT Clone By Tega Anthony</h1>
 
                             <p>Start a conversation and explore the power of AI.<br> Your chat history will be displayed here.</p>
 
